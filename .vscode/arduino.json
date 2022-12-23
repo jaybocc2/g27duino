@@ -1,0 +1,6 @@
+{
+    "sketch": "g27duino.ino",
+    "board": "arduino:avr:leonardo",
+    "port": "COM5",
+    "programmer": "arduino:avrispmkii"
+}
